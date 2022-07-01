@@ -1,0 +1,43 @@
+/* Add your profile image here */
+.Photo {
+  background-image: url("https://user-images.githubusercontent.com/99678193/176914624-f3b251bb-e514-4150-9c9b-ef8986cf5b84.jpg");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("https://user-images.githubusercontent.com/99678193/176923501-ff6c8413-1938-4ec6-9195-2f93041e287d.jpg");
+  cursor: none;
+}
+.project2 {
+  background-image: url("https://user-images.githubusercontent.com/99678193/176922359-503ae28a-deda-462e-b3fe-6a1d74f4a7dc.jpg");
+  cursor: none;
+}
+.project3 {
+  background-image: url("https://user-images.githubusercontent.com/99678193/176922893-d1ef4718-37df-42a5-a7ac-9a3101767755.jpg");
+  cursor: none;
+}
+.project4 {
+  background-image: url("https://raw.githubusercontent.com/geekypradip/images/main/Screenshot%20from%202022-02-08%2017-08-57.png");
+  cursor: none;
+  filter: invert(0) !important;
+}
+.project5 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+five");
+  cursor: none;
+}
+.project6 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+six");
+  cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+one");
+  cursor: none;
+}
+.misc2 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+two");
+  cursor: none;
+}
+.misc3 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+three");
+  cursor: none;
+}
