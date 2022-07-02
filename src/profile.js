@@ -95,7 +95,7 @@ const projects = [
     skills: [<i className={'fab fa-html5'}></i>, <i className={'fab fa-js'}></i>, <i className={'fab fa-css3'}></i>],
     url: "https://github.com/gautam6023/Unit-2-Project--Clone-of-geekbuying.com",
     deployurl: "https://relaxed-morse-dc4166.netlify.app/index.html",
-    descriptions:`Fathom Health is a deep learning NLP system to accelerate medical reimbursement.`,
+    descriptions:`Geekbuying is e-commerce website.This website only for gadgets.`,
     github:"fab fa-github" ,
     deploy: "fas fa-globe"
   },
@@ -106,7 +106,7 @@ const projects = [
     skills: [<i className={'fab fa-html5'}></i>, <i className={'fab fa-js'}></i>, <i className={'fab fa-css3'}></i>],
     url: "https://github.com/Biman721443/Crickbuzz",
     deployurl: "https://profound-kleicha-a650c2.netlify.app/index.html",
-    descriptions:`Cricket related all informatio is here`,
+    descriptions:`Crickbuzz is static website.Cricket related all informatio is here`,
     github:"fab fa-github" ,
     deploy: "fas fa-globe"
   },
@@ -117,7 +117,7 @@ const projects = [
     skills: [<i className={'fab fa-html5'}></i>, <i className={'fab fa-js'}></i>, <i className={'fab fa-css3'}></i>],
     url: "https://github.com/pushpraj15295/FAB-bag",
     deployurl: "https://regal-malabi-7ec768.netlify.app/",
-    descriptions:`Booking.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings. `,
+    descriptions:`Fab-bag is a e-commerce website.This website only for cosmetics.`,
     github:"fab fa-github" ,
     deploy: "fas fa-globe"
   },
@@ -181,7 +181,7 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "hey, if you have any suggestions or queries feel free to contact me, please visit my social profiles below links. If You want to get my resume, you can download it from the below button.",
-  copyright: "pradip Mandal",
+  copyright: "Biman Gharai",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
