@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import pic from "/MYPIC.png"
 import { MdEmail, MdDateRange, MdOutlineDownload, MdOutlineLocationOn } from "react-icons/md";
 import { FaPhoneAlt, FaFacebookF, FaGithub, FaLinkedinIn, } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
 
 const Profile = () => {
     return (
@@ -108,7 +107,7 @@ const Profile = () => {
                 <button>
                     <Link
                         target='_blank'
-                        to="https://drive.google.com/file/d/1F5WfBZfBOJtdtiVS_tWwSz2ImZ-saSyD/view?usp=drive_link"
+                        to=""
                         className="flex justify-center items-center gap-3 w-auto py-3 px-10 rounded-[35px] text-whiteColor text-2xl font-bold mb-5 hover:bg-common-bg bg-common-bg-hover transition-all duration-200"
                     >
                         <MdOutlineDownload />

@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import css from '../../assets/css.png'
 import bootstrap from '../../assets/Bootsrap.png'
 import express from '../../assets/express.png'
@@ -8,7 +7,6 @@ import JavaScript from '../../assets/JavaScript.png'
 import mongo from '../../assets/mongo.png'
 import node from '../../assets/node.png'
 import react from '../../assets/react.png'
-import sass from '../../assets/sass.png'
 import tailwind from '../../assets/tailwind.png'
 const HomePage = () => {
     return (
@@ -83,7 +81,6 @@ To further advance my career, I joined Masai School, where I honed my skills in 
                         <img src={react} alt="react" />
                         <img src={node} alt="node" />
                         <img src={mongo} alt="mongo" />
-                        {/* <img src={SQL} alt="SQL" /> */}
                         <img src={firebase} alt="firebase" />
                     </div>
                 </div>
